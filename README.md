@@ -1,4 +1,9 @@
 # Valorant-Triggerbot
-Simple python pixel scanner with a grab area visualizer.
-
-To edit the settings go into the config file. 
+### Features
+```
+[+] Triggerbot (purple highlight)
+[=] Customizeable 
+  [+] Toggle key 
+  [+] Grab area size
+  [+] Visualize grab area (may need to use windowed fullscreen)
+```
