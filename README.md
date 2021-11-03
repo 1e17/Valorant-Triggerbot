@@ -1,6 +1,4 @@
 # Valorant-Triggerbot
-### Detection Status
-Use at your own risk!
 ### Features
 ```
 [+] Triggerbot (purple highlight)
@@ -9,3 +7,5 @@ Use at your own risk!
   [+] Grab area size
   [+] Visualize grab area (may need to use windowed fullscreen)
 ```
+### Detection Status
+Use at your own risk! I've been using it for the past week and haven't been banned.
