@@ -1,5 +1,5 @@
 # Valorant-Triggerbot
-### Detection Status: Use at your own risk.
+### Detection Status: <span style="color:yellow">Use with caution.</span>.
 ### Features
 ```
 [+] Triggerbot (purple highlight)
