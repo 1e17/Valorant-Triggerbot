@@ -1,4 +1,3 @@
-
 # Imports
 import os, ctypes, keyboard, json, mss, PIL, PyQt5, time, sys, threading 
 from PyQt5 import QtCore, QtGui, QtWidgets
@@ -58,6 +57,9 @@ def Triggerbot():
               time.sleep(0.005)
               user32.mouse_event(0x0004)
               break
+          else:
+            continue
+          break
 
 # Trigger Bot 
 threading.Thread(target=Triggerbot).start()
@@ -68,5 +70,3 @@ if settings['showFov']:
   visualize = FovVisualizer();
   visualize.show();
   sys.exit(app.exec_()) 
-
-
