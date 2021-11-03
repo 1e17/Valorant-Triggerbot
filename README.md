@@ -1,4 +1,5 @@
 # Valorant-Triggerbot
+### Detection Status: Use at your own risk.
 ### Features
 ```
 [+] Triggerbot (purple highlight)
