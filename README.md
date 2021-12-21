@@ -1,11 +1,19 @@
 # Valorant-Triggerbot
+
 ### Features
+
 ```
-[+] Triggerbot (purple highlight)
-[=] Customizeable 
-  [+] Toggle key 
-  [+] Grab area size
-  ~~[+] Visualize grab area (may need to use windowed fullscreen)~~
+[+] Triggerbot (purple highlight only ignore yellow)
+[=] Customization
+  [+] Toggle key
+  [+] Tap shoot
+  [+] Tap shoot delay
+  [+] Lenience
+  [+] Grab area size (x,y)
 ```
-### Detection Status
-Use at your own risk! I've been using it for the past week and haven't been banned.
+
+### Removed Features
+
+<s>[+] Visualize grab area</s>
+
+**[Status] -** <span style="color:red">Use at your own risk.</span>
